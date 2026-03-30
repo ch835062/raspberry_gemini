@@ -1,2 +1,2 @@
 # raspberry_gemini
-test
+raspberry+pythone+gemini智慧開發
